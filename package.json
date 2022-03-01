@@ -1,0 +1,17 @@
+{
+  "name": "holly-grail-official",
+  "version": "1.0.0",
+  "description": "fullstack holy grail app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "nitiwat_w@yahoo.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "redis": "^4.0.4"
+  }
+}
